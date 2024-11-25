@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { motion } from 'framer-motion';
 import { Sparkles, Target, Compass } from 'lucide-react';
 import { Swiper, SwiperSlide } from 'swiper/react';
